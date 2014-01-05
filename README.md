@@ -1,4 +1,5 @@
 trillek-game-tools
 ==================
 
-Game Tools
+One day our game tools code will be here as well as the technical compilation instructions.
+
